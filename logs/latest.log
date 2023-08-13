@@ -1,87 +1,71 @@
-[16:55:35] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[16:56:32] [Server thread/INFO]: Loading properties
-[16:56:32] [Server thread/INFO]: Default game type: SURVIVAL
-[16:56:32] [Server thread/INFO]: Generating keypair
-[16:56:32] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:58:19] [Server thread/INFO]: Preparing level "World"
-[16:58:20] [Server thread/INFO]: Preparing start region for level 0
-[16:58:21] [Server thread/INFO]: Preparing spawn area: 61%
-[16:58:22] [Server thread/INFO]: Done (10.932s)! For help, type "help" or "?"
-[17:04:06] [User Authenticator #1/INFO]: UUID of player GamaraxX is 213b2127-be69-4fee-b9d4-88d9ac652451
-[17:04:07] [Server thread/INFO]: GamaraxX[/2.38.49.8:59632] logged in with entity id 788 at (-739.6999999880791, 53.0, 1456.561631856085)
-[17:04:07] [Server thread/INFO]: GamaraxX joined the game
-[17:04:12] [User Authenticator #2/INFO]: UUID of player FTL_Space_Warp is 1cfbb1e3-9ae7-4465-b166-4a357ebaaacc
-[17:04:13] [Server thread/INFO]: FTL_Space_Warp[/127.0.0.1:44384] logged in with entity id 1105 at (-717.6873925679453, 60.0, 930.3964326068177)
-[17:04:13] [Server thread/INFO]: FTL_Space_Warp joined the game
-[17:45:38] [Server thread/INFO]: FTL_Space_Warp fell from a high place
-[17:54:03] [Server thread/INFO]: GamaraxX drowned
-[18:29:40] [Server thread/INFO]: <GamaraxX> ci sono
-[18:29:49] [Server thread/INFO]: <GamaraxX> mi aveva gankato mia mamma
-[19:09:58] [Server thread/INFO]: <GamaraxX> vanadium
-[19:10:57] [Server thread/INFO]: <GamaraxX> afk
-[19:13:19] [Server thread/INFO]: <GamaraxX> 14 bastano?
-[19:13:50] [Server thread/INFO]: <GamaraxX> o.o
-[19:14:24] [Server thread/INFO]: <GamaraxX> ./gamemode creative
-[19:14:37] [Server thread/INFO]: <GamaraxX> era una gag
-[19:14:57] [Server thread/INFO]: <GamaraxX> afk di nuovo
-[19:19:58] [Server thread/INFO]: <GamaraxX> come forse hai mezzo sentito prima che mi mutassi, io ora esco
-[19:20:11] [Server thread/INFO]: <GamaraxX> ci sentiamo più tardi
-[19:20:27] [Server thread/INFO]: <GamaraxX> più tardi ti chiedo di aprmi il server, cosi torno a casa a portare l'oro
-[19:20:30] [Server thread/INFO]: <GamaraxX> se non ci sei rip
-[19:20:41] [Server thread/INFO]: <GamaraxX> oke, ciao
-[19:20:44] [Server thread/INFO]: GamaraxX lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:20:44] [Server thread/INFO]: GamaraxX left the game
-[19:20:57] [Server thread/INFO]: FTL_Space_Warp lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[19:20:57] [Server thread/INFO]: FTL_Space_Warp left the game
-[19:21:00] [Server thread/INFO]: Stopping the server
-[19:21:00] [Server thread/INFO]: Stopping server
-[19:21:00] [Server thread/INFO]: Saving players
-[19:21:00] [Server thread/INFO]: Saving worlds
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[19:21:00] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[14:15:23] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:16:22] [Server thread/INFO]: Loading properties
+[14:16:22] [Server thread/INFO]: Default game type: SURVIVAL
+[14:16:22] [Server thread/INFO]: Generating keypair
+[14:16:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:18:12] [Server thread/INFO]: Preparing level "World"
+[14:18:14] [Server thread/INFO]: Preparing start region for level 0
+[14:18:15] [Server thread/INFO]: Preparing spawn area: 56%
+[14:18:15] [Server thread/INFO]: Done (11.028s)! For help, type "help" or "?"
+[14:25:29] [User Authenticator #1/INFO]: UUID of player FTL_Space_Warp is 1cfbb1e3-9ae7-4465-b166-4a357ebaaacc
+[14:25:30] [Server thread/INFO]: FTL_Space_Warp[/176.206.55.8:48676] logged in with entity id 795 at (-716.1413342668004, 60.0, 929.9074601907191)
+[14:25:30] [Server thread/INFO]: FTL_Space_Warp joined the game
+[14:26:53] [User Authenticator #2/INFO]: UUID of player GamaraxX is 213b2127-be69-4fee-b9d4-88d9ac652451
+[14:26:54] [Server thread/INFO]: GamaraxX[/2.38.49.8:56852] logged in with entity id 1634 at (-679.4955621053755, 42.0, 1217.7207921514323)
+[14:26:54] [Server thread/INFO]: GamaraxX joined the game
+[14:27:18] [Server thread/INFO]: FTL_Space_Warp lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Connessione in corso interrotta forzatamente dall'host remoto], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:27:18] [Server thread/INFO]: FTL_Space_Warp left the game
+[14:27:28] [Server thread/INFO]: GamaraxX lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:27:28] [Server thread/INFO]: GamaraxX left the game
+[14:27:39] [Server thread/INFO]: Stopping the server
+[14:27:40] [Server thread/INFO]: Stopping server
+[14:27:40] [Server thread/INFO]: Saving players
+[14:27:40] [Server thread/INFO]: Saving worlds
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/? Centauri Bb
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[14:27:40] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
